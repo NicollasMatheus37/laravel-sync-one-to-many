@@ -1,0 +1,26 @@
+{
+    "name": "nicollasmat37/sync-one-to-many",
+    "description": "Sync OneToMany relationships for Laravel",
+    "type": "composer-plugin",
+    "autoload": {
+        "classmap": [
+            "database"
+        ],
+        "psr-4": {
+            "App\\": "app/",
+            "SyncOneToMany\\": "packages/SynOneToMany/src"
+        }
+    },
+    "require": {
+        "laravel/laravel": "^8.0"
+    },
+    "require-dev": {
+        "laravel/laravel": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "nicollasmatheus37",
+            "email": "nicollasmatheus37@gmail.com"
+        }
+    ]
+}
