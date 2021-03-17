@@ -12,10 +12,10 @@
         }
     },
     "require": {
-        "laravel/laravel": "^8.0"
+        "laravel/laravel": "^8"
     },
     "require-dev": {
-        "laravel/laravel": "^8.0"
+        "laravel/laravel": "^8"
     },
     "authors": [
         {
